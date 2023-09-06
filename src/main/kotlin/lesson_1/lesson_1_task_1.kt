@@ -1,5 +1,4 @@
 package lesson_1
 
-fun main() {
-    println("Это решение первой задачи первого урока")
-}
+var countOfOrders: Int = 75
+val successfulOrderText: String = "Спасибо, что выбрали нас! :)"
